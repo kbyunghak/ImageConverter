@@ -1,5 +1,5 @@
 {
-  "name": "mona_lisa",
+  "name": "ImageConverter",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
